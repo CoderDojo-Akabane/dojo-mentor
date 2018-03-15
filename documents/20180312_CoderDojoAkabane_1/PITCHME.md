@@ -3,8 +3,6 @@
 
 ### Scratch で IT に触れてみよう！
 
-![logo](documents/LOGO/CoderDojo_Logo_Akabane_White_Transparent.png)
-
 2018/03/17 Sat. 9:30〜11:30
 
 赤羽北区民センター（ふれあい館） 第2ホール
