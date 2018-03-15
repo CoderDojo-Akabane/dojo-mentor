@@ -1,5 +1,4 @@
-## CoderDojo
-## 赤羽 #1
+## CoderDojo 赤羽 #1
 
 [Scratch で IT に触れてみよう！](https://www.facebook.com/events/1612444562157392/)
 
