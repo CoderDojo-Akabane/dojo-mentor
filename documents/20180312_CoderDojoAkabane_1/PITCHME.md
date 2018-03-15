@@ -40,9 +40,17 @@ https://www.facebook.com/events/1612444562157392/
 
 ### [Hour of Code](https://code.org/) 編
 
++++
+
+### [Hour of Code](https://code.org/) 編
+
 |やること|Scratch を触った事がない|ある程度1人でやれる|かなり1人でやれる|
 |---|:-:|:-:|:-:|
 |プログラミングのイメージをつかもう|○|-|-|
+
++++
+
+### [Scratch](https://scratch.mit.edu/) 編
 
 +++
 
