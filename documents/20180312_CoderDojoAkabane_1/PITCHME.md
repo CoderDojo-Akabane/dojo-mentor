@@ -1,5 +1,5 @@
-# CoderDojo
-# 赤羽 #1
+## CoderDojo
+## 赤羽 #1
 
 ### Scratch で IT に触れてみよう！
 
