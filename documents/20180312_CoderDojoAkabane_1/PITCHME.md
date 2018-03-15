@@ -1,12 +1,11 @@
 ## CoderDojo
 ## 赤羽 #1
 
-Scratch で IT に触れてみよう！
+[Scratch で IT に触れてみよう！](https://www.facebook.com/events/1612444562157392/)
 
 2018/03/17 Sat. 9:30〜11:30
 
-赤羽北区民センター（ふれあい館） 第2ホール
-https://www.facebook.com/events/1612444562157392/
+[赤羽北区民センター（ふれあい館） 第2ホール](http://www.city.kita.tokyo.jp/chiikishinko/kurashi/volunteer/shisetsu/fureai/akabanekita.html)
 
 ---
 
