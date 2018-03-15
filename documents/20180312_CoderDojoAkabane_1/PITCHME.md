@@ -1,7 +1,7 @@
 ## CoderDojo
 ## 赤羽 #1
 
-### Scratch で IT に触れてみよう！
+Scratch で IT に触れてみよう！
 
 2018/03/17 Sat. 9:30〜11:30
 
