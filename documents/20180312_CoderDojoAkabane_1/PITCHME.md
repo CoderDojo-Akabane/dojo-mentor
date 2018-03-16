@@ -1,6 +1,6 @@
 ## CoderDojo 赤羽 #1
 
-[Scratch で IT に触れてみよう！](https://www.facebook.com/events/1612444562157392/)
+[Scratch で IT にふれてみよう！](https://www.facebook.com/events/1612444562157392/)
 
 2018/03/17 Sat. 9:30〜11:30
 
