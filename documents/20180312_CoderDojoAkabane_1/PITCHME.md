@@ -96,7 +96,7 @@
 
 +++
 
-### [Scratch](https://scratch.mit.edu/) 編
+### [Scratch](https://scratch.mit.edu/) をやろう！
 
 |やること|Scratch をやったことがない|ある程度1人でやれる|かなり1人でやれる|
 |---|:-:|:-:|:-:|
